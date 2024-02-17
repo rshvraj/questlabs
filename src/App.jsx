@@ -1,5 +1,5 @@
 import Footer from "./components/Footer"
-import Profile from "./components/Profile"
+import Profile from "./pages/Profile"
 
 
 function App() {
