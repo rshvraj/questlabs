@@ -5,7 +5,7 @@ import Profile from "./pages/Profile"
 function App() {
 
   return (
-    <div>
+    <div className="relative overflow-hidden h-[100vh] m-auto max-w-[380px] min-w-[220px]">
       <Profile/>
     <Footer/>
     </div>
